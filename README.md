@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Table of Contents](#TableOfContents)
-* [Pull Copter](##Pull_Copter)
+* [Pull Copter](#Pull_Copter)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
