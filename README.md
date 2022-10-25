@@ -3,7 +3,7 @@
 ## Table of contents
 * [Table of Contents](#TableOfContents)
 * [Pull Copter](#Pull_Copter)
-* [Swing Arm](#Swing_Arm)
+* [Swing Arm](#Swing Arm)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 ---
 
