@@ -3,9 +3,8 @@
 ## Table of contents
 * [Table of Contents](#TableOfContents)
 * [Pull Copter](#Pull_Copter)
-* [CircuitPython_Servo](#CircuitPython_Servo)
+* [Swing Arm](#Swing_Arm)
 * [CircuitPython_LCD](#CircuitPython_LCD)
-* [NextAssignmentGoesHere](#NextAssignment)
 ---
 
 ## Pull_Copter
@@ -89,6 +88,32 @@ _An image of our current branch tree_
 _An example of a basic edit I made to the prop_
 
 Onshape document can be found [here.](https://cvilleschools.onshape.com/documents/b233d027f0fb88a6fc82f915/w/4caae7ee1e36a28405ab2992/e/5689ef7789d7554da93774cc)
+
+### Reflection
+
+snazzy reflection
+
+## Swing Arm
+
+### Description
+
+This assignment was meant to mimic something we might see on the Onshape certification exam. We were given drawings for a part, and then had to recreate it as an actual object in CAD.
+
+### Evidence
+
+![drawing](https://user-images.githubusercontent.com/113116262/197795360-161a5487-760e-4add-bcfd-b456b6ea99f4.png)
+
+_An example of one of the drawings we had to go off of_
+
+![sketch](https://user-images.githubusercontent.com/113116262/197795688-9df9ed0b-b17b-40a5-902c-501d026192b7.png)
+
+_My sketch of the part before being extruded_
+
+![complete](https://user-images.githubusercontent.com/113116262/197795869-85b8853b-e632-439b-9598-eb369c513455.png)
+
+_My complete part_
+
+[Onshape Link](https://cvilleschools.onshape.com/documents/15f3b964741c21a1cc2d59f9/w/6c6390a70b9cb4c96be5052b/e/238db51dea54aa8f7ad56856?renderMode=0&uiState=6357ee0d13030e19f9cf1e82)
 
 ### Reflection
 
