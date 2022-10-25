@@ -4,7 +4,7 @@
 * [Table of Contents](#TableOfContents)
 * [Pull Copter](#Pull_Copter)
 * [Swing Arm](#Swing_Arm)
-* [CircuitPython_LCD](#CircuitPython_LCD)
+* [Multi-Part Studio](#Multi-Part_Studio)
 ---
 
 ## Pull_Copter
