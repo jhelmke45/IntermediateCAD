@@ -118,3 +118,25 @@ _My complete part_
 ### Reflection
 
 snazzy reflection
+
+## Multi-Part_Studio
+
+### Description
+
+In this assignment, we again had to create a finished product in Onshape based off of drawings given to us. This time, we were given a handful of parts to recreate in a single part studio to create a pump design.
+
+### Evidence
+
+![drawings](https://user-images.githubusercontent.com/113116262/197799034-96843209-c3fd-4fbd-b842-bca6928c748c.png)
+
+_One of the drawings we were given to base our parts off of_
+
+![multi](https://user-images.githubusercontent.com/113116262/197799162-cba24060-0bc0-41a9-8f7d-4aede9a43df9.png)
+
+_My final design, after changes made in other questions_
+
+[Onshape Link](https://cvilleschools.onshape.com/documents/6fa4d67660248872b65cd0b0/w/586b1ff733628690f7928814/e/3763e4dbd9515a22eb136a3e)
+
+### Reflection
+
+snazzy reflection
