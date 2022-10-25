@@ -3,7 +3,7 @@
 ## Table of contents
 * [Table of Contents](#TableOfContents)
 * [Pull Copter](#Pull_Copter)
-* [Swing Arm](#Swing Arm)
+* [Swing Arm](#Swing_Arm)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 ---
 
@@ -93,7 +93,7 @@ Onshape document can be found [here.](https://cvilleschools.onshape.com/document
 
 snazzy reflection
 
-## Swing Arm
+## Swing_Arm
 
 ### Description
 
