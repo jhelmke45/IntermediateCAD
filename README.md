@@ -15,6 +15,7 @@
 In this assignment, we collaborated with a partner to make a 3D printable pull copter toy. My partner was [Robel](https://github.com/rgabramedhin93).
 
 ### 4.1 - Teamwork Makes the Dream Work!
+Making the Ring and Spinner
 ---
 
 ### Evidence
@@ -32,3 +33,11 @@ Onshape document can be found [here.](https://cvilleschools.onshape.com/document
 ### Reflection
 
 This assignment wasn't too hard, but was a good reintroduction to CAD. 
+
+### 4.2 - Teamwork! Key and Prop
+Making the Key and Prop
+---
+
+### Evidence
+
+
