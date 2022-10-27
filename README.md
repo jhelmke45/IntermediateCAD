@@ -31,7 +31,7 @@ Onshape document can be found [here.](https://cvilleschools.onshape.com/document
 
 ### Reflection
 
-This assignment wasn't too hard, but was a good reintroduction to CAD. 
+This assignment wasn't too hard, but was a good reintroduction to CAD. This part made good use of the front plane to create the ring with the center floating. 
 
 ### 4.2 - Teamwork! - Key and Prop
 
@@ -51,7 +51,7 @@ Onshape document can be found [here.](https://cvilleschools.onshape.com/document
 
 ### Reflection
 
-snazzy reflection
+This part was definitely more interesting to make. It makes use of a linear pattern for all of the notches in the key, and used the print gap variable to determine the size, and to allow it to be modified later if need be. The mate connecter in the part studio was also a thoughtful hint at the next step.
 
 ### 4.3 - Teamwork! - Assembling the launcher
 
@@ -71,7 +71,7 @@ Onshape document can be found [here.](https://cvilleschools.onshape.com/document
 
 ### Reflection
 
-snazzy reflection #2
+It's always nice to be it all together and see how everything fits! It's even more satisfying when you're able to animate everything with a rack and pinion mate, and activate a section view to see those gears meshing perfectly.
 
 ### 4.4 - Teamwork! - Branching & Merging
 
@@ -91,7 +91,7 @@ Onshape document can be found [here.](https://cvilleschools.onshape.com/document
 
 ### Reflection
 
-snazzy reflection
+This was a good introduction to versions, branching, and merging, all things I had never done before. They have very helpful uses though, as there's no better feeling than being able to break your parts in whatever funny way you want and then simply reverting back to a better functioning design. 
 
 ## Swing_Arm
 
@@ -117,7 +117,7 @@ _My complete part_
 
 ### Reflection
 
-snazzy reflection
+This was a challenge for me, but once I got down the concepts it was alright, albeit some minor errors which took some tracking down. I definitely feel like I learned from this though, especially with constraining and variables. Once you've got everything set up properly it's a matter of typing in numbers, so it's worth the time of making sure everything is constrained properly. 
 
 ## Multi-Part_Studio
 
@@ -139,4 +139,4 @@ _My final design, after changes made in other questions_
 
 ### Reflection
 
-snazzy reflection
+This one went a lot smoother for me than the last model we made from drawings. It might be because there were more straightforward dimensions given, but I also felt a lot more comfortable generally taking what was in the drawings and putting it into the model. I must have learned something about constraining and depencies though, because everything went smoothly when I changed some of the values in the later questions.
