@@ -140,3 +140,5 @@ _My final design, after changes made in other questions_
 ### Reflection
 
 This one went a lot smoother for me than the last model we made from drawings. It might be because there were more straightforward dimensions given, but I also felt a lot more comfortable generally taking what was in the drawings and putting it into the model. I must have learned something about constraining and depencies though, because everything went smoothly when I changed some of the values in the later questions.
+
+<iframe src=https://create.arduino.cc/editor/jhelmke83/c30f57e8-4f3c-40ff-b365-3d37e50042f7/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
