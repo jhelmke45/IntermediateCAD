@@ -140,3 +140,17 @@ _My final design, after changes made in other questions_
 ### Reflection
 
 This one went a lot smoother for me than the last model we made from drawings. It might be because there were more straightforward dimensions given, but I also felt a lot more comfortable generally taking what was in the drawings and putting it into the model. I must have learned something about constraining and depencies though, because everything went smoothly when I changed some of the values in the later questions.
+
+## Assembly_Practice
+
+### Description
+
+In this assignment, I used the parts and guide made by Onshape to properly assembly a toggle clamp. 
+
+### Evidence
+
+![image](https://user-images.githubusercontent.com/113116262/235682231-efa6154f-d0e8-4abf-8437-e0e7e6716ba7.png)
+
+![gifwuyf](https://user-images.githubusercontent.com/113116262/235684231-735cd28b-3520-41bb-be54-f14ebe122069.gif)
+
+### Reflection
