@@ -5,6 +5,7 @@
 * [Pull Copter](#Pull_Copter)
 * [Swing Arm](#Swing_Arm)
 * [Multi-Part Studio](#Multi-Part_Studio)
+* [Assembly Practice](Assembly_Practice)
 ---
 
 ## Pull_Copter
@@ -153,4 +154,8 @@ In this assignment, I used the parts and guide made by Onshape to properly assem
 
 ![gifwuyf](https://user-images.githubusercontent.com/113116262/235684231-735cd28b-3520-41bb-be54-f14ebe122069.gif)
 
+_A picture of the completed assembly, and a GIF showing the parts moving properly together_
+
 ### Reflection
+
+This assembly wasn't too hard, especially with instructions from Onshape if you get stuck. The most notable thing was having to create an explicit mate connecter in order to properly connect some of the parts, which wasn't something I'd had to do before, but it was still pretty simple and didn't take long to figure out. Other than that all I really had to do was make sure everything was mated correctly, and it's always satisfying to see all of the parts working together.
