@@ -5,7 +5,7 @@
 * [Pull Copter](#Pull_Copter)
 * [Swing Arm](#Swing_Arm)
 * [Multi-Part Studio](#Multi-Part_Studio)
-* [Assembly Practice](Assembly_Practice)
+* [Assembly Practice](#Assembly_Practice)
 ---
 
 ## Pull_Copter
