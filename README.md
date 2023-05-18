@@ -171,7 +171,7 @@ This section is mainly a reflection on the preparation and test in which I becam
 
 ![image](https://github.com/jhelmke45/IntermediateCAD/assets/113116262/f8e67c56-3f8d-426d-a8a2-c33a570cbc4a)
 
-_Above is a screenshot of the certificate, which can be viewed in pdf form [here](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/734484d1-990e-4a36-ae5d-4c4d29ef5674-jack-helmke-a62a2539-f226-4519-9fda-0b1be1549770-certificate.pdf).
+_Above is a screenshot of the certificate, which can be viewed in pdf form [here](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/734484d1-990e-4a36-ae5d-4c4d29ef5674-jack-helmke-a62a2539-f226-4519-9fda-0b1be1549770-certificate.pdf)._
 
 ### Reflection
 
