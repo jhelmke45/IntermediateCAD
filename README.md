@@ -6,6 +6,7 @@
 * [Swing Arm](#Swing_Arm)
 * [Multi-Part Studio](#Multi-Part_Studio)
 * [Assembly Practice](#Assembly_Practice)
+* [Onshape Certification](Onshape_Certification)
 ---
 
 ## Pull_Copter
@@ -159,3 +160,19 @@ _A picture of the completed assembly, and a GIF showing the parts moving properl
 ### Reflection
 
 This assembly wasn't too hard, especially with instructions from Onshape if you get stuck. The most notable thing was having to create an explicit mate connecter in order to properly connect some of the parts, which wasn't something I'd had to do before, but it was still pretty simple and didn't take long to figure out. Other than that all I really had to do was make sure everything was mated correctly, and it's always satisfying to see all of the parts working together.
+
+## Onshape_Certification
+
+### Description
+
+This section is mainly a reflection on the preparation and test in which I became a certified Onshape associate.
+
+### Certificate
+
+![image](https://github.com/jhelmke45/IntermediateCAD/assets/113116262/f8e67c56-3f8d-426d-a8a2-c33a570cbc4a)
+
+_Above is a screenshot of the certificate, which can be viewed in pdf form [here](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/734484d1-990e-4a36-ae5d-4c4d29ef5674-jack-helmke-a62a2539-f226-4519-9fda-0b1be1549770-certificate.pdf).
+
+### Reflection
+
+I am generally more of a coder than a CAD designer, but I still felt pretty prepared for the certification test. We did a good amount of preparation in the weeks before the test, practicing replicating parts that were very similar to those on the actual test, so I had a good idea of what to expect. The main thing that threw me off on the test was the time. I went into the test expecting lots of time pressure, but I ended up having plenty of extra time. While this was ultimately good, I was really stressed at the beginning because of how the time crunch had been emphasized to me, which caused me to make some poor design choices or unnecessarily cut corners to try and estimate answers. It ended up being fine because I could go back and check my work, and my rushing certainly helped me have extra time at the end, but if I were to go back and do it again I would definitely take my time more in the design section and strive for accuracy rather than rushing. Other than that, the test went pretty smoothly, and I only missed a few questions over the course of the entire test, so I was very happy with how I did.
